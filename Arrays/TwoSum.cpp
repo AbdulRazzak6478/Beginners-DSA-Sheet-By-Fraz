@@ -20,7 +20,7 @@ public:
  return {-1,-1};
   */
 
-    /*
+    
     // Approache 2 :
     //   TC : O(N)
     //   SC : O(N)
@@ -37,7 +37,7 @@ public:
         m[nums[i]]=i;
     }
     return {-1,-1};
-    */
+    
 
     /*
     // Approache 3 :
